@@ -1,0 +1,3 @@
+[submodule "rawdata"]
+	path = rawdata
+	url = https://github.com/omot/rawdata
